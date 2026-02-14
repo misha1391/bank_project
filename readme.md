@@ -1,0 +1,1 @@
+Что-бы открыть bank_program.drawio, зайдите сюда: https://www.drawio.com
